@@ -1,17 +1,19 @@
 <div align="center">
 
-# 👋 Hi, I'm Anusha
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1C3C3C&height=200&section=header&text=Hi%20There,%20I'm%20Anusha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 ### Data Analyst • Machine Learning Engineer • Generative AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;Data+Scientist;Machine+Learning+Engineer;Generative+AI+Enthusiast;Power+BI+Developer;Building+Real-World+AI+Projects" />
 
-
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anusha-c-11oct)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anushac-04.github.io)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://YOUR_RESUME_LINK)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anusha.c357@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=AnushaC-04&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -57,6 +59,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -70,7 +73,7 @@
 | **Machine Learning** | Scikit-learn, TensorFlow |
 | **Generative AI** | LangChain, FAISS, Sentence Transformers, Prompt Engineering |
 | **Database** | MySQL |
-| **Tools** | Git, GitHub, Jupyter, VS Code |
+| **Tools** | Git, GitHub, Jupyter, VS Code, FastAPI |
 
 ---
 
@@ -113,6 +116,9 @@
 Interactive Power BI dashboard covering loan performance, risk analysis, customer demographics, funding trends, and KPI monitoring.
 
 **Tech:** Power BI • DAX • Excel • Data Modeling
+**Highlights:** Multi-page report with drill-through KPIs, dynamic filters, and executive summary view.
+
+[🔗 View Project](https://github.com/AnushaC-04) · [📊 Live Dashboard](https://YOUR_DASHBOARD_LINK)
 </details>
 
 <details>
@@ -122,6 +128,8 @@ Interactive Power BI dashboard covering loan performance, risk analysis, custome
 End-to-end ML pipeline with missing-value handling, encoding, scaling, pipelines, and logistic regression.
 
 **Tech:** Python • Pandas • Scikit-learn
+
+[🔗 View Project](https://github.com/AnushaC-04)
 </details>
 
 <details>
@@ -131,6 +139,8 @@ End-to-end ML pipeline with missing-value handling, encoding, scaling, pipelines
 AI-powered document assistant using recursive text chunking, embeddings, FAISS vector search, and prompt engineering.
 
 **Tech:** Python • LangChain • FAISS • Sentence Transformers
+
+[🔗 View Project](https://github.com/AnushaC-04)
 </details>
 
 <details>
@@ -138,6 +148,8 @@ AI-powered document assistant using recursive text chunking, embeddings, FAISS v
 <br>
 
 A growing collection of projects across regression, classification, clustering, feature engineering, and model evaluation.
+
+[🔗 View Repository](https://github.com/AnushaC-04)
 </details>
 
 ---
@@ -178,6 +190,16 @@ Python → SQL → Data Cleaning → EDA → Machine Learning
 
 </div>
 
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AnushaC-04/AnushaC-04/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+
+</div>
+
+> This animated snake "eats" your contribution graph and updates automatically. It needs a one-time GitHub Action setup — see `snake.yml` below.
+
 ---
 
 ## 🎯 2026 Goals
@@ -197,7 +219,7 @@ Python → SQL → Data Cleaning → EDA → Machine Learning
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anusha-c-11oct)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anushac-04.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anusha.c357@gmail.com)
 
 </div>
@@ -211,5 +233,7 @@ Python → SQL → Data Cleaning → EDA → Machine Learning
 *"Every dataset tells a story — my goal is to uncover it through analytics and AI."*
 
 **Learning. Building. Improving. Every single day.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C3C3C,100:36BCF7&height=100&section=footer"/>
 
 </div>
