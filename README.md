@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1C3C3C&height=200&section=header&text=Hi%20There,%20I'm%20Anusha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi%20There,%20I'm%20Anusha%20👋&fontAlign=50&fontAlignY=38&fontSize=50&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=6,11,20,24,30" width="100%"/>
 
 ### Data Analyst • Machine Learning Engineer • Generative AI Enthusiast
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -59,7 +59,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -80,28 +79,28 @@
 ## 🏗️ How I Work — Engineering Pipeline
 
 ```text
-┌──────────────────────────────┐
+┌────────────────────────────── ┐
 │      Data Collection          │   CSV • Excel • SQL • APIs
 └───────────────┬───────────────┘
                 │
                 ▼
-┌──────────────────────────────┐
+┌────────────────────────────── ┐
 │  Cleaning & Feature Engineer  │   Pandas • NumPy • SQL
 └───────────────┬───────────────┘
                 │
                 ▼
-┌──────────────────────────────┐
+┌────────────────────────────── ┐
 │      Machine Learning         │   Scikit-learn • TensorFlow
 └───────────────┬───────────────┘
                 │
                 ▼
-┌──────────────────────────────┐
+┌────────────────────────────── ┐
 │    Analytics & Visualization  │   Power BI • Tableau • Matplotlib
 └───────────────┬───────────────┘
                 │
                 ▼
 ┌──────────────────────────────┐
-│  Generative AI & Deployment   │   LangChain • FAISS • FastAPI
+│  Generative AI & Deployment  │   LangChain • FAISS • FastAPI
 └──────────────────────────────┘
 ```
 
@@ -118,7 +117,7 @@ Interactive Power BI dashboard covering loan performance, risk analysis, custome
 **Tech:** Power BI • DAX • Excel • Data Modeling
 **Highlights:** Multi-page report with drill-through KPIs, dynamic filters, and executive summary view.
 
-[🔗 View Project](https://github.com/AnushaC-04) · [📊 Live Dashboard](https://YOUR_DASHBOARD_LINK)
+[🔗 View Project](https://github.com/AnushaC-04/Power_Bi_Projects/tree/main/Finance-Loan-Analysis)
 </details>
 
 <details>
@@ -129,7 +128,7 @@ End-to-end ML pipeline with missing-value handling, encoding, scaling, pipelines
 
 **Tech:** Python • Pandas • Scikit-learn
 
-[🔗 View Project](https://github.com/AnushaC-04)
+[🔗 View Project](https://github.com/AnushaC-04/ML_mini_projects)
 </details>
 
 <details>
@@ -184,22 +183,18 @@ Python → SQL → Data Cleaning → EDA → Machine Learning
 
 <img src="https://streak-stats.demolab.com?user=AnushaC-04&theme=tokyonight"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AnushaC-04&theme=tokyonight&column=4"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnushaC-04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AnushaC-04&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnushaC-04&theme=tokyo-night"/>
 
 </div>
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AnushaC-04/AnushaC-04/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-
 </div>
-
-> This animated snake "eats" your contribution graph and updates automatically. It needs a one-time GitHub Action setup — see `snake.yml` below.
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnushaC-04/AnushaC-04/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
 
 ## 🎯 2026 Goals
@@ -234,6 +229,5 @@ Python → SQL → Data Cleaning → EDA → Machine Learning
 
 **Learning. Building. Improving. Every single day.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C3C3C,100:36BCF7&height=100&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
 </div>
