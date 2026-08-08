@@ -172,10 +172,7 @@ Python → SQL → Data Cleaning → EDA → Machine Learning
 ✅ SQL &nbsp;&nbsp; ✅ Python &nbsp;&nbsp; ✅ Machine Learning
 ✅ Prompt Engineering &nbsp;&nbsp; ✅ Problem Solving &nbsp;&nbsp; ✅ Continuous Learning
 
----
 
----
----
 
 ---
 
