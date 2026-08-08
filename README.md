@@ -177,18 +177,20 @@ Python → SQL → Data Cleaning → EDA → Machine Learning
 ---
 ---
 
+---
+
 ## 📈 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=AnushaC-04&theme=dark&hide_border=false&background=0D1117&ring=2F81F7&fire=FF6B35&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=58A6FF&dates=9CA3AF&stroke=30363D"
+    src="https://streak-stats.demolab.com/?user=AnushaC-04&background=080D16&border=26384D&stroke=26384D&ring=1683FF&fire=FF6B35&currStreakNum=FFFFFF&sideNums=1683FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9AA4B2&hide_border=false"
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AnushaC-04&bg_color=0D1117&color=58A6FF&line=2F81F7&point=58A6FF&area_color=1F6FEB&area=true&hide_border=false"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AnushaC-04&bg_color=080D16&color=1683FF&line=1683FF&point=FFFFFF&area_color=0B4F9C&area=true&border_color=26384D&title_color=1683FF&hide_border=false&custom_title=Anusha%20C's%20Contribution%20Graph&radius=8"
     alt="Anusha C's GitHub Contribution Graph"
     width="95%"
   />
