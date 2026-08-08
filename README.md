@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi%20There,%20I'm%20Anusha%20👋&fontAlign=50&fontAlignY=38&fontSize=50&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=6,11,20,24,30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001BFF,50:008CFF,100:00E5FF&height=220&section=header&text=Hi%20There,%20I'm%20Anusha%20👋&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 ### Data Analyst • Machine Learning Engineer • Generative AI Enthusiast
 
@@ -174,27 +174,26 @@ Python → SQL → Data Cleaning → EDA → Machine Learning
 
 ---
 
+---
+---
+
 ## 📈 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnushaC-04&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushaC-04&layout=compact&theme=tokyonight"/>
-
-<img src="https://streak-stats.demolab.com?user=AnushaC-04&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnushaC-04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnushaC-04&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnushaC-04&theme=tokyo-night"/>
-
-</div>
-
-</div>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnushaC-04/AnushaC-04/output/github-contribution-grid-snake-dark.svg" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=AnushaC-04&theme=dark&hide_border=false&background=0D1117&ring=2F81F7&fire=FF6B35&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=58A6FF&dates=9CA3AF&stroke=30363D"
+    alt="GitHub Streak"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AnushaC-04&bg_color=0D1117&color=58A6FF&line=2F81F7&point=58A6FF&area_color=1F6FEB&area=true&hide_border=false"
+    alt="Anusha C's GitHub Contribution Graph"
+    width="95%"
+  />
+</p>
+
 ---
 
 ## 🎯 2026 Goals
@@ -229,5 +228,5 @@ Python → SQL → Data Cleaning → EDA → Machine Learning
 
 **Learning. Building. Improving. Every single day.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001BFF,50:008CFF,100:00E5FF&height=100&section=footer"/>
 </div>
