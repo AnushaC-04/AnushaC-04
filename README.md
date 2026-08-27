@@ -179,10 +179,8 @@ Python → SQL → Data Cleaning → EDA → Machine Learning
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=AnushaC-04&background=080D16&border=26384D&stroke=26384D&ring=1683FF&fire=FF6B35&currStreakNum=FFFFFF&sideNums=1683FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9AA4B2&hide_border=false"
-    alt="GitHub Streak"
-  />
+  <img<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushaC-04&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
