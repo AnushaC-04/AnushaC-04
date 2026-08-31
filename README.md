@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anusha-c-11oct)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anushac-04.github.io)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://YOUR_RESUME_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anusha.c357@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anusha11oct04@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=AnushaC-04&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="profile views"/>
 
@@ -21,12 +21,13 @@
 
 ## 💫 About Me
 
-- 👩‍🎓 Final year B.Tech (Information Technology) student
-- 📊 Passionate about solving business problems with data
-- 🤖 Deep interest in Machine Learning, Generative AI, and RAG systems
-- 📈 Building Power BI dashboards and end-to-end ML projects
-- 🧠 Exploring Large Language Models and Agentic AI
-- 🚀 Learning FastAPI and AI deployment
+- 👩‍🎓 B.Tech Information Technology Graduate — 2026
+- 📊 Passionate about solving business problems with data and building data-driven solutions
+- 🤖 Interested in Machine Learning, Generative AI, NLP, and intelligent applications
+- 🧠 Currently learning Deep Learning, Neural Networks, RAG systems, and LLM applications
+- 📈 Building Power BI dashboards and end-to-end Machine Learning projects
+- 🐍 Strengthening Python, SQL, and Machine Learning fundamentals
+- 🚀 Exploring AI application development, deployment, and real-world use cases
 
 > **Mission:** Turning raw data into intelligent, real-world impact.
 
@@ -36,11 +37,13 @@
 
 ```text
 🟢 Building end-to-end Machine Learning projects
+🟢 Learning Deep Learning and Neural Network fundamentals
 🟢 Developing Business Intelligence dashboards
+🟢 Building practical Generative AI applications
 🟢 Learning production-level RAG systems
-🟢 Exploring Agentic AI
-🟢 Sharpening SQL & Python skills
-🟢 Growing an industry-level portfolio
+🟢 Exploring LLM applications and Agentic AI
+🟢 Sharpening Python & SQL problem-solving skills
+🟢 Building an industry-ready AI & Data portfolio
 ```
 
 ---
@@ -64,15 +67,19 @@
 
 </div>
 
-| Domain | Tools |
-|---|---|
-| **Programming** | Python, SQL |
-| **Data Analytics** | Pandas, NumPy, Excel |
-| **Visualization** | Power BI, Tableau, Matplotlib |
-| **Machine Learning** | Scikit-learn, TensorFlow |
-| **Generative AI** | LangChain, FAISS, Sentence Transformers, Prompt Engineering |
-| **Database** | MySQL |
-| **Tools** | Git, GitHub, Jupyter, VS Code, FastAPI |
+| Domain               | Tools                                                                                           |
+| -------------------- | ----------------------------------------------------------------------------------------------- |
+| **Programming**      | Python, SQL                                                                                     |
+| **Data Analytics**   | Pandas, NumPy, Excel                                                                            |
+| **Visualization**    | Power BI, Tableau, Matplotlib                                                                   |
+| **Machine Learning** | Scikit-learn, Supervised Learning, Unsupervised Learning, Feature Engineering, Model Evaluation |
+| **Deep Learning**    | TensorFlow, Neural Networks *(Currently Learning)*                                              |
+| **NLP**              | Text Preprocessing, Tokenization, Lemmatization, TF-IDF                                         |
+| **Generative AI**    | LangChain, FAISS, Sentence Transformers, Prompt Engineering, LLM Applications                   |
+| **Vector Search**    | FAISS, Sentence Transformers, Embeddings                                                        |
+| **Database**         | MySQL                                                                                           |
+| **Tools**            | Git, GitHub, Jupyter, VS Code, FastAPI, Streamlit                                               |
+
 
 ---
 
@@ -107,6 +114,15 @@
 ---
 
 ## 🚀 Featured Projects
+<details open> <summary><strong>🤖 ResumeLens AI — Intelligent Resume ATS Analyzer</strong></summary> <br>
+
+AI-powered resume analysis application that compares a candidate's resume against a job description and generates an AI-based ATS compatibility analysis.
+
+Tech: Python • Streamlit • LangChain • Google Gemini • FAISS • Hugging Face • spaCy
+
+Highlights: NLP-based resume preprocessing, semantic embeddings, vector similarity search, Gemini-powered analysis, ATS scoring, matching and missing skill identification, and resume improvement suggestions.
+
+[🔗 View Project](https://github.com/AnushaC-04/ATS-Resume-Analyzer)
 
 <details open>
 <summary><strong>📊 Financial Loan Analytics Dashboard</strong></summary>
@@ -157,13 +173,13 @@ A growing collection of projects across regression, classification, clustering, 
 
 ```text
 Python → SQL → Data Cleaning → EDA → Machine Learning
-   → Power BI → Generative AI → RAG → LLMs → Agentic AI
+   → Power BI → NLP → Generative AI → RAG
+   → LLMs → Deep Learning → Agentic AI
 ```
 
 ## 🌱 Currently Learning
 
-`Advanced Machine Learning` · `NLP` · `Agentic AI` · `Advanced RAG` · `LLM Applications` · `AI Deployment`
-
+Deep Learning · Neural Networks · NLP · Advanced RAG · LLM Applications · Agentic AI · AI Deployment
 ---
 
 ## 🏆 Strengths
