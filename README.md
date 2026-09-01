@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anusha-c-11oct)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anushac-04.github.io)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://YOUR_RESUME_LINK)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/AnushaC-04/AnushaC-04.github.io/blob/main/resume.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anusha11oct04@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=AnushaC-04&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="profile views"/>
@@ -21,7 +21,7 @@
 
 ## 💫 About Me
 
-- 👩‍🎓 B.Tech Information Technology Graduate — 2026
+- 👩‍🎓 B-Tech Information Technology Graduate — 2026
 - 📊 Passionate about solving business problems with data and building data-driven solutions
 - 🤖 Interested in Machine Learning, Generative AI, NLP, and intelligent applications
 - 🧠 Currently learning Deep Learning, Neural Networks, RAG systems, and LLM applications
@@ -195,17 +195,21 @@ Deep Learning · Neural Networks · NLP · Advanced RAG · LLM Applications · A
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushaC-04&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AnushaC-04&background=080D16&border=26384D&stroke=1683FF&ring=1683FF&fire=FF6B00&currStreakNum=FF6B00&sideNums=FFFFFF&currStreakLabel=FF6B00&sideLabels=00F2FE&dates=1683FF&hide_border=true" 
+    alt="Anusha C's Streak Stats"
+  />
 </p>
+
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AnushaC-04&bg_color=080D16&color=1683FF&line=1683FF&point=FFFFFF&area_color=0B4F9C&area=true&border_color=26384D&title_color=1683FF&hide_border=false&custom_title=Anusha%20C's%20Contribution%20Graph&radius=8"
-    alt="Anusha C's GitHub Contribution Graph"
+    src="https://activity-graph.vercel.app/graph?username=AnushaC-04&bg_color=080D16&color=1683FF&line=1683FF&point=FFFFFF&area_color=0B4F9C&area=true&border_color=26384D&title_color=1683FF&hide_border=false&custom_title=Anusha%20C%27s%20Contribution%20Graph&radius=8"
+    alt="Anusha C's Contribution Graph"
     width="95%"
   />
 </p>
+
 
 ---
 
